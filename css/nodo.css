@@ -1,0 +1,47 @@
+
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+
+td{
+text-align: center;
+
+}
+
+#circulo {
+    height: 100px;
+    width: 100px;
+    display: table-cell;
+    text-align: center;
+    font-size:36px;
+    vertical-align: middle;
+    border-radius: 50%;
+    background: #8CC657;
+  }
+
+  #circulo1 {
+    height: 100px;
+    width: 100px;
+    display: table-cell;
+    text-align: center;
+    font-size:36px;
+    vertical-align: middle;
+    border-radius: 50%;
+    background: #8CC657;
+  }
+
+  h2{
+
+    text-align: center;
+  }
+
+  #nombrePagina{
+
+    justify-content: center;
+  }
+
+  .navbar{
+margin-bottom: 6rem;
+
+  }
